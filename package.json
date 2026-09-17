@@ -1,0 +1,21 @@
+{
+  "name": "trimble-agent-demos",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/three": "^0.186.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0",
+    "vite-plugin-static-copy": "^4.1.1"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^6.3.289",
+    "three": "^0.186.0"
+  }
+}
