@@ -1,0 +1,62 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 806 >>
+stream
+BT /F1 10 Tf 50 750 Td (STRUCTURAL GRID NOTES - Level 2 Framing) Tj ET
+BT /F1 10 Tf 50 736 Td (Doc: STR-L2-GRID-01 | Metro Hub Expansion) Tj ET
+BT /F1 10 Tf 50 722 Td (1.0 Grid system) Tj ET
+BT /F1 10 Tf 50 708 Td (Primary grids A-H \(east-west\) and 1-8 \(north-south\). Corridor C2-East spans) Tj ET
+BT /F1 10 Tf 50 694 Td (Grid D-E between lines 4 and 5.) Tj ET
+BT /F1 10 Tf 50 680 Td (2.0 Beam schedule \(excerpt\)) Tj ET
+BT /F1 10 Tf 50 666 Td (BEAM-S-L2-W18x35-042: W18x35, Grid D-E / Line 4, Bottom of steel +3720 mm AFF,) Tj ET
+BT /F1 10 Tf 50 652 Td (Top of steel +4177 mm AFF.) Tj ET
+BT /F1 10 Tf 50 638 Td (Adjacent beams on Line 4.5 use W16x26 with BOS +3780 mm AFF.) Tj ET
+BT /F1 10 Tf 50 624 Td (3.0 Slab) Tj ET
+BT /F1 10 Tf 50 610 Td (Level 2 composite deck: top of slab +4500 mm AFF.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 830 >>
+stream
+BT /F1 10 Tf 50 750 Td (4.0 Coordination notes) Tj ET
+BT /F1 10 Tf 50 736 Td (4.1 Structural owns primary steel framing geometry. MEP shall route around beams;) Tj ET
+BT /F1 10 Tf 50 722 Td (beam depth changes require Structural approval.) Tj ET
+BT /F1 10 Tf 50 708 Td (4.2 Who owns coordination of Level 2 MEP: MEP Lead chairs the weekly BIM) Tj ET
+BT /F1 10 Tf 50 694 Td (coordination meeting; Structural and Architectural attend for clash triage.) Tj ET
+BT /F1 10 Tf 50 680 Td (4.3 Openings larger than 200 mm in beams or decks require an engineered detail.) Tj ET
+BT /F1 10 Tf 50 666 Td (5.0 Datum) Tj ET
+BT /F1 10 Tf 50 652 Td (Project base point and shared coordinates published in Trimble Connect folder) Tj ET
+BT /F1 10 Tf 50 638 Td (/Coordinates/Shared_2026. All discipline models shall use the same Level 2 datum.) Tj ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000000323 00000 n 
+0000001180 00000 n 
+0000001306 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+2187
+%%EOF
